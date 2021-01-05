@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://healthdecision.github.io/react-epic-demo/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "client-oauth2": "^4.2.1",
     "fhir.js": "https://github.com/HealthDecision/fhir.js.git#325998b1ef1be39bec71df3fe73c4dd1fdf91535",
     "moment": "^2.22.2",
